@@ -14,7 +14,7 @@
   &nbsp;·&nbsp; Windows 10 / 11 (x64) &nbsp;·&nbsp; English / Deutsch
 </p>
 
-![YTD Explorer](docs/social-preview.png)
+![YTD Explorer](social-preview.png)
 
 ---
 
@@ -27,14 +27,14 @@
 - **Camera & light panel**: rotation, tilt, distance, field of view, brightness, light direction, background, presets (front / back / sides / top / ¾)
 - BC7, DXT1/3/5 and uncompressed textures, transparency preview, emissive highlight
 
-![3D viewer](docs/feature-viewer.png)
+![3D viewer](feature-viewer.png)
 
 ### PNG renders
 - Preview images for every model of the selected parts – e.g. **all `jbib`** – in every texture variation
 - 256 / 512 / 1024 px, transparent background, uses the current camera
 - File names like `jbib_000_u_a.png` or the `11_0_0.png` (component_drawable_texture) style many FiveM clothing menus expect
 
-![PNG renders](docs/feature-renders.png)
+![PNG renders](feature-renders.png)
 
 ### Resource converter (FiveM / alt:V)
 Pick a folder with raw files *or* finished resources, choose FiveM or alt:V – done:
@@ -44,7 +44,7 @@ Pick a folder with raw files *or* finished resources, choose FiveM or alt:V – 
 - male/female detected from prefixes or folder names (`male`, `[female]`, …), splits into several collections above 128 drawables per component
 - output layout is compatible with Durty Cloth Tool resources
 
-![Resource converter](docs/feature-converter.png)
+![Resource converter](feature-converter.png)
 
 ### Also
 - Export textures as PNG + DDS, export single drawables, merge YTDs / YDDs
